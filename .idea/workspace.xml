@@ -16,13 +16,18 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="262" column="136" selection-start-line="262" selection-start-column="136" selection-end-line="262" selection-end-column="136" />
+            <state relative-caret-position="211">
+              <caret line="61" column="129" selection-start-line="61" selection-start-column="129" selection-end-line="61" selection-end-column="129" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get early access</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,7 +50,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="118" />
-    <option name="y" value="80" />
+    <option name="y" value="79" />
     <option name="width" value="1680" />
     <option name="height" value="996" />
   </component>
@@ -100,7 +105,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="80" width="1680" height="996" extended-state="0" />
+    <frame x="118" y="79" width="1680" height="996" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -109,8 +114,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.329718" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -135,8 +140,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="262" column="136" selection-start-line="262" selection-start-column="136" selection-end-line="262" selection-end-column="136" />
+        <state relative-caret-position="211">
+          <caret line="61" column="129" selection-start-line="61" selection-start-column="129" selection-end-line="61" selection-end-column="129" />
         </state>
       </provider>
     </entry>
