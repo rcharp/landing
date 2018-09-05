@@ -16,8 +16,8 @@
       <file leaf-file-name="home.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="61" column="129" selection-start-line="61" selection-start-column="129" selection-end-line="61" selection-end-column="129" />
+            <state relative-caret-position="256">
+              <caret line="281" column="34" selection-start-line="281" selection-start-column="34" selection-end-line="281" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -50,7 +50,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="118" />
-    <option name="y" value="79" />
+    <option name="y" value="78" />
     <option name="width" value="1680" />
     <option name="height" value="996" />
   </component>
@@ -105,7 +105,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="79" width="1680" height="996" extended-state="0" />
+    <frame x="118" y="78" width="1680" height="996" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -140,8 +140,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="61" column="129" selection-start-line="61" selection-start-column="129" selection-end-line="61" selection-end-column="129" />
+        <state relative-caret-position="256">
+          <caret line="281" column="34" selection-start-line="281" selection-start-column="34" selection-end-line="281" selection-end-column="34" />
         </state>
       </provider>
     </entry>
